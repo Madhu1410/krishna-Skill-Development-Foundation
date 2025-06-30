@@ -9,7 +9,7 @@ It is designed for all devices using **HTML**, **CSS**, and **JavaScript**.
 
 ## 🖼️ Demo Screenshots
 
-![Homepage](https://github.com/Madhu1410/krishna-Skill-Development-Foundation/blob/main/Screenshot%202025-06-30%20121905.png))
+![Homepage](https://github.com/Madhu1410/krishna-Skill-Development-Foundation/blob/main/Screenshot%202025-06-30%20121905.png)
 
 
 ---
